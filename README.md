@@ -1,1 +1,1 @@
-# Credit-Card-Detection
+# Credit-CardDetection
